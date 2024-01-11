@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandhucr57" alt="anandhucr57" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix Clone DevSecOps Project**
+- 🔭 I’m currently working on **AWS and Devops Projects**
 
 - 🌱 I’m currently learning **GoLang**
 
